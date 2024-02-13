@@ -1,0 +1,9 @@
+{
+  "sites": [
+    {
+      "slug": "quiet-caravan-rapid",
+      "distDir": "./build/",
+      "buildCommand": "npm run build"
+    }
+  ]
+}
